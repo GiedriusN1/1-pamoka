@@ -15,7 +15,7 @@ public class conditional1 {
   }
   
   
-  	System.out.println(nr + " is " + skaicius );
+  	System.out.println("Number is " + skaicius );
 	
  }
 }
